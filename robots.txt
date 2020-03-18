@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aixaengeuk.ccrama.me/sitemap.xml
